@@ -1,0 +1,93 @@
+{
+  "uid" : "dcdb65a7d414e154",
+  "name" : "emptyUserCredentialsTest",
+  "historyId" : "TestSuite:org.example.LoginPageTest#emptyUserCredentialsTest",
+  "time" : {
+    "duration" : 1983
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.LoginPageTest"
+  }, {
+    "name" : "package",
+    "value" : "org.example.LoginPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "38cb156c04f7e543",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/38cb156c04f7e543",
+        "status" : "passed",
+        "time" : {
+          "duration" : 2133
+        }
+      }, {
+        "uid" : "f037f30949f81a02",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/f037f30949f81a02",
+        "status" : "passed",
+        "time" : {
+          "duration" : 2154
+        }
+      }, {
+        "uid" : "66fac695136ac61d",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/66fac695136ac61d",
+        "status" : "passed",
+        "time" : {
+          "duration" : 2339
+        }
+      }, {
+        "uid" : "8d3a3b33feb689ee",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/8d3a3b33feb689ee",
+        "status" : "passed",
+        "time" : {
+          "duration" : 1905
+        }
+      }, {
+        "uid" : "2b96b99886d40db3",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/2b96b99886d40db3",
+        "status" : "passed",
+        "time" : {
+          "duration" : 1797
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "dcdb65a7d414e154.json",
+  "parameterValues" : [ ]
+}

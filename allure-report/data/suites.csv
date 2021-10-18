@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","","","1327","","TestSuite","","org.example.LoginPageTest","","forgotPassword",""
+"failed","","","5939","","TestSuite","","org.example.UserPageTest","","deleteUsersTest",""
+"passed","","","8049","","TestSuite","","org.example.UserPageTest","","editUserTest",""
+"failed","","","20203","","TestSuite","","org.example.UserPageTest","","addUsersTest",""
+"passed","","","1983","","TestSuite","","org.example.LoginPageTest","","emptyUserCredentialsTest",""
+"passed","","","4521","","TestSuite","","org.example.LoginPageTest","","validUserLoginTestCase",""
+"passed","","","2379","","TestSuite","","org.example.LoginPageTest","","invalidUserCredentialsTest",""

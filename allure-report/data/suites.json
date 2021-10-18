@@ -1,0 +1,86 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "TestSuite",
+    "children" : [ {
+      "name" : "forgotPassword",
+      "uid" : "59eaf754ab56c097",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deleteUsersTest",
+      "uid" : "5959539199ddf4c3",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "failed",
+      "time" : {
+        "duration" : 5939
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "editUserTest",
+      "uid" : "2dc754ead1baf1e9",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 8049
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "addUsersTest",
+      "uid" : "781de9ae0465901e",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "failed",
+      "time" : {
+        "duration" : 20203
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "emptyUserCredentialsTest",
+      "uid" : "dcdb65a7d414e154",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1983
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "validUserLoginTestCase",
+      "uid" : "215b911dc1a90238",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4521
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "invalidUserCredentialsTest",
+      "uid" : "f97bd14735df39a3",
+      "parentUid" : "4f26dde5cd0b5e43ba4287be426a0f93",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2379
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4f26dde5cd0b5e43ba4287be426a0f93"
+  } ],
+  "name" : "suites"
+}

@@ -1,0 +1,61 @@
+[ {
+  "buildOrder" : 13,
+  "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 4
+  }
+} ]

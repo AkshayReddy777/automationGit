@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [An invitation to john.mird+591@gmail.com was cancelled] but found [failed]",
+      "children" : [ {
+        "name" : "deleteUsersTest",
+        "uid" : "5959539199ddf4c3",
+        "parentUid" : "e18161389909e4899d0b28408b859451",
+        "status" : "failed",
+        "time" : {
+          "duration" : 5939
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e18161389909e4899d0b28408b859451"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"BUTTON.swal-button.swal-button--confirm\"}\n  (Session info: chrome=94.0.4606.54)\n  (Driver info: chromedriver=94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ip-172-31-47-123.us-east-2.compute.internal', ip: '172.31.47.123', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.248-189.473.amzn2.x86_64', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49216}, handlesAlerts: true, hasMetadata: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 94.0.4606.54, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c13fc372d6014e0d86efcf534fd...}\nSession ID: c13fc372d6014e0d86efcf534fdd4063\n*** Element info: {Using=css selector, value=BUTTON.swal-button.swal-button--confirm}",
+      "children" : [ {
+        "name" : "addUsersTest",
+        "uid" : "781de9ae0465901e",
+        "parentUid" : "5dd3773ce580c6618bbf5109253a3508",
+        "status" : "failed",
+        "time" : {
+          "duration" : 20203
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5dd3773ce580c6618bbf5109253a3508"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

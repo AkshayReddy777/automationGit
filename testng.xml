@@ -1,0 +1,11 @@
+<suite name = "Suite">
+    <test name = "test">
+        <classes>
+<!--                <class name = "org.example.ClientsPageTest">-->
+<!--            </class>-->
+            <class name = "org.example.LoginPageTest">
+            </class>
+            <class name = "org.example.UserPageTest"></class>
+        </classes>
+    </test>
+</suite>

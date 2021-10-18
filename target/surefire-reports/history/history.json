@@ -1,0 +1,303 @@
+{
+  "TestSuite:org.example.UserPageTest#editUserTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "6129a7c49fb73a27",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/6129a7c49fb73a27",
+      "status" : "passed",
+      "time" : {
+        "duration" : 16421
+      }
+    }, {
+      "uid" : "65b519d92798fca4",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/65b519d92798fca4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14682
+      }
+    }, {
+      "uid" : "e8891a77b4213299",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/e8891a77b4213299",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15481
+      }
+    } ]
+  },
+  "TestSuite:org.example.LoginPageTest#invalidUserCredentialsTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "ca9b208b95427236",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/ca9b208b95427236",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2806
+      }
+    }, {
+      "uid" : "7ed2ac66336d9a80",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/7ed2ac66336d9a80",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1449
+      }
+    }, {
+      "uid" : "d734460c43227c09",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/d734460c43227c09",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1967
+      }
+    }, {
+      "uid" : "f13eb3ec695be212",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/f13eb3ec695be212",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1768
+      }
+    }, {
+      "uid" : "eaa25b2de06182ef",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/eaa25b2de06182ef",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2090
+      }
+    } ]
+  },
+  "TestSuite:org.example.UserPageTest#deleteUsersTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "a33e63f2369a0f04",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/a33e63f2369a0f04",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13040
+      }
+    }, {
+      "uid" : "f98b5d574efc8ca",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/f98b5d574efc8ca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 15986
+      }
+    }, {
+      "uid" : "fe6da864a919a66f",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/fe6da864a919a66f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 14833
+      }
+    } ]
+  },
+  "TestSuite:org.example.UserPageTest#addUsersTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "48a32f9ecc67519f",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/48a32f9ecc67519f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 13792
+      }
+    }, {
+      "uid" : "78b88e4a2b59dc38",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/78b88e4a2b59dc38",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11969
+      }
+    }, {
+      "uid" : "94d9e45e9ed910df",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/94d9e45e9ed910df",
+      "status" : "passed",
+      "time" : {
+        "duration" : 11987
+      }
+    } ]
+  },
+  "TestSuite:org.example.ClientsPageTest#addUsersTest" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a66b12a2872d623",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/a66b12a2872d623",
+      "status" : "failed",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"BUTTON.swal-button.swal-button--confirm\"}\n  (Session info: chrome=94.0.4606.71)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ip-172-31-47-123.us-east-2.compute.internal', ip: '172.31.47.123', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.248-189.473.amzn2.x86_64', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:6277}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 53413eca889667551b58fb4c85c...}\nSession ID: 53413eca889667551b58fb4c85c2d09251f98eb2\n*** Element info: {Using=css selector, value=BUTTON.swal-button.swal-button--confirm}",
+      "time" : {
+        "duration" : 20296
+      }
+    } ]
+  },
+  "TestSuite:org.example.LoginPageTest#validUserLoginTestCase" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "95e28a2c9f16d07b",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/95e28a2c9f16d07b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 5153
+      }
+    }, {
+      "uid" : "d224bdc7085ac3cb",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/d224bdc7085ac3cb",
+      "status" : "passed",
+      "time" : {
+        "duration" : 5259
+      }
+    }, {
+      "uid" : "de16496df4f38a98",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/de16496df4f38a98",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4033
+      }
+    }, {
+      "uid" : "62ae088f2f51a07",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/62ae088f2f51a07",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4188
+      }
+    }, {
+      "uid" : "54feb8505f184b59",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/54feb8505f184b59",
+      "status" : "passed",
+      "time" : {
+        "duration" : 4202
+      }
+    } ]
+  },
+  "TestSuite:org.example.LoginPageTest#emptyUserCredentialsTest" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "38cb156c04f7e543",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/38cb156c04f7e543",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2133
+      }
+    }, {
+      "uid" : "f037f30949f81a02",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/f037f30949f81a02",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2154
+      }
+    }, {
+      "uid" : "66fac695136ac61d",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/66fac695136ac61d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2339
+      }
+    }, {
+      "uid" : "8d3a3b33feb689ee",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/8d3a3b33feb689ee",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1905
+      }
+    }, {
+      "uid" : "2b96b99886d40db3",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/2b96b99886d40db3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1797
+      }
+    } ]
+  },
+  "TestSuite:org.example.LoginPageTest#forgotPassword" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "28ef3dc92acdb2dd",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/28ef3dc92acdb2dd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1284
+      }
+    }, {
+      "uid" : "a32e53491c4a1d3d",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/a32e53491c4a1d3d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 757
+      }
+    }, {
+      "uid" : "6cd13452dc6e80ea",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/6cd13452dc6e80ea",
+      "status" : "passed",
+      "time" : {
+        "duration" : 833
+      }
+    }, {
+      "uid" : "b679a6bf14d52d84",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/b679a6bf14d52d84",
+      "status" : "failed",
+      "statusDetails" : "expected [https://zodha2.wavo.co/password/reset] but found [https://zodha2.wavo.co/login]",
+      "time" : {
+        "duration" : 370
+      }
+    }, {
+      "uid" : "bc6b0edb32f93803",
+      "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/bc6b0edb32f93803",
+      "status" : "failed",
+      "statusDetails" : "element click intercepted: Element <a href=\"https://zodha2.wavo.co/password/reset\" class=\"float-right\">...</a> is not clickable at point (626, 125). Other element would receive the click: <div class=\"panel-body\">...</div>\n  (Session info: chrome=94.0.4606.71)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ip-172-31-47-123.us-east-2.compute.internal', ip: '172.31.47.123', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.248-189.473.amzn2.x86_64', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:55257}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 04d95a8a3fb0b0cf6ac4499e967...}\nSession ID: 04d95a8a3fb0b0cf6ac4499e967a1bf4b8655d64",
+      "time" : {
+        "duration" : 1260
+      }
+    } ]
+  }
+}

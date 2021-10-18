@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="44.401" tests="7" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.vendor" value="Red Hat, Inc."/>
+    <property name="JOB_NAME" value="Wavo-Web-Automation"/>
+    <property name="PWD" value="/"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/14/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/bin:/sbin:/usr/sbin:/bin:/usr/bin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="de79800a460e182e"/>
+    <property name="POM_ARTIFACTID" value="AutomationProjectAkshay"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="AutomationProjectAkshay"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="1.8.0_302-b08"/>
+    <property name="user.name" value="root"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="Wavo-Web-Automation"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/14/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#14"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/amd64"/>
+    <property name="TargetCloud" value="SauceLabs"/>
+    <property name="java.version" value="1.8.0_302"/>
+    <property name="user.timezone" value="UTC"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="14"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/etc/maven"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.home" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="4.14.248-189.473.amzn2.x86_64"/>
+    <property name="RUN_DISPLAY_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/14/display/redirect"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/14/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.302-b08"/>
+    <property name="JOB_DISPLAY_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/sbin/daemonize"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="JAVA_HOME" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="LOGNAME" value="root"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="HOME" value="/root"/>
+    <property name="POM_GROUPID" value="org.example"/>
+    <property name="user.home" value="/root"/>
+    <property name="BUILD_TAG" value="jenkins-Wavo-Web-Automation-14"/>
+    <property name="JENKINS_SERVER_COOKIE" value="de79800a460e182e"/>
+    <property name="HUDSON_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vendor.url" value="https://www.redhat.com/"/>
+    <property name="java.vm.vendor" value="Red Hat, Inc."/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="maven.home" value="/usr/share/apache-maven"/>
+    <property name="java.class.path" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/usr/share/apache-maven/boot/plexus-classworlds-2.5.2.jar:/usr/share/apache-maven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /usr/share/apache-maven /var/cache/jenkins/war/WEB-INF/lib/remoting-4.10.jar /var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 43589"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/usr/share/apache-maven"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="CI" value="true"/>
+    <property name="HUDSON_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH+MAVEN" value="/usr/share/apache-maven/bin"/>
+    <property name="BUILD_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/14/"/>
+    <property name="java.vendor.url.bug" value="https://forums.aws.amazon.com/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="user.dir" value="/home/ec2-user/AutomationProjectAkshay"/>
+    <property name="JOB_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="/usr/share/apache-maven"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="14"/>
+    <property name="propertyName" value="SauceLabs"/>
+    <property name="JENKINS_URL" value="http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/"/>
+    <property name="IFS" value=" 	&#10;"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="/home/ec2-user/AutomationProjectAkshay@tmp"/>
+    <property name="WORKSPACE" value="/home/ec2-user/AutomationProjectAkshay"/>
+    <property name="maven3.interceptor.common" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="root"/>
+  </properties>
+  <testcase name="validUserLoginTestCase" classname="org.example.LoginPageTest" time="4.521"/>
+  <testcase name="invalidUserCredentialsTest" classname="org.example.LoginPageTest" time="2.379"/>
+  <testcase name="emptyUserCredentialsTest" classname="org.example.LoginPageTest" time="1.983"/>
+  <testcase name="forgotPassword" classname="org.example.LoginPageTest" time="1.327"/>
+  <testcase name="addUsersTest" classname="org.example.UserPageTest" time="20.203">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;BUTTON.swal-button.swal-button--confirm&quot;}&#10;  (Session info: chrome=94.0.4606.54)&#10;  (Driver info: chromedriver=94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;ip-172-31-47-123.us-east-2.compute.internal&apos;, ip: &apos;172.31.47.123&apos;, os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;4.14.248-189.473.amzn2.x86_64&apos;, java.version: &apos;1.8.0_302&apos;&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49216}, handlesAlerts: true, hasMetadata: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 94.0.4606.54, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c13fc372d6014e0d86efcf534fd...}&#10;Session ID: c13fc372d6014e0d86efcf534fdd4063&#10;*** Element info: {Using=css selector, value=BUTTON.swal-button.swal-button--confirm}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"BUTTON.swal-button.swal-button--confirm"}
+  (Session info: chrome=94.0.4606.54)
+  (Driver info: chromedriver=94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-31-47-123.us-east-2.compute.internal', ip: '172.31.47.123', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.248-189.473.amzn2.x86_64', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49216}, handlesAlerts: true, hasMetadata: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 94.0.4606.54, webStorageEnabled: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: c13fc372d6014e0d86efcf534fd...}
+Session ID: c13fc372d6014e0d86efcf534fdd4063
+*** Element info: {Using=css selector, value=BUTTON.swal-button.swal-button--confirm}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy7.click(Unknown Source)
+	at org.example.ClientsPage.addUserDetails(ClientsPage.java:66)
+	at org.example.UserPageTest.addUsersTest(UserPageTest.java:28)
+</failure>
+    <system-out>SauceLabs
+Cloud URL : https://oauth-akshaykumarreddy786-ecbe5:93a2337b-a370-44ec-8639-c4ea3f85ccf6@ondemand.us-west-1.saucelabs.com:443/wd/hub
+madhoo+2@zodha.com
+123123Aa@
+madhoo+2@zodha.com
+123123Aa@
+madhoo+2@zodha.com
+</system-out>
+    <system-err>Oct 14, 2021 10:36:12 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase name="editUserTest" classname="org.example.UserPageTest" time="8.049"/>
+  <testcase name="deleteUsersTest" classname="org.example.UserPageTest" time="5.939">
+    <failure message="expected [An invitation to john.mird+591@gmail.com was cancelled] but found [failed]" type="java.lang.AssertionError">java.lang.AssertionError: expected [An invitation to john.mird+591@gmail.com was cancelled] but found [failed]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at org.example.UserPageTest.deleteUsersTest(UserPageTest.java:50)
+</failure>
+    <system-out><![CDATA[john.mird+82165@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Export • LI Searches: View / Create & Edit
+john.mird+abcffff@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+879@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+2222@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+abc@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+abcff@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+2@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+962@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+449@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+john.mird+314@gmail.com
+Pending Invitation • Invite Link • Campaigns: View / Create & Edit / Export • LI Searches:
+]]></system-out>
+  </testcase>
+</testsuite>

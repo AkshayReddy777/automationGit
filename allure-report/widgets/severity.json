@@ -1,0 +1,57 @@
+[ {
+  "uid" : "f97bd14735df39a3",
+  "name" : "invalidUserCredentialsTest",
+  "time" : {
+    "duration" : 2379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcdb65a7d414e154",
+  "name" : "emptyUserCredentialsTest",
+  "time" : {
+    "duration" : 1983
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2dc754ead1baf1e9",
+  "name" : "editUserTest",
+  "time" : {
+    "duration" : 8049
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "781de9ae0465901e",
+  "name" : "addUsersTest",
+  "time" : {
+    "duration" : 20203
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "59eaf754ab56c097",
+  "name" : "forgotPassword",
+  "time" : {
+    "duration" : 1327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "215b911dc1a90238",
+  "name" : "validUserLoginTestCase",
+  "time" : {
+    "duration" : 4521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5959539199ddf4c3",
+  "name" : "deleteUsersTest",
+  "time" : {
+    "duration" : 5939
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

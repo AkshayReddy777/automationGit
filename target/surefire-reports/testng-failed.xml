@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="test(failed)">
+    <classes>
+      <class name="org.example.UserPageTest">
+        <methods>
+          <include name="classSetup"/>
+          <include name="addUsersTest"/>
+          <include name="usersPageTestClassSetup"/>
+          <include name="deleteUsersTest"/>
+        </methods>
+      </class> <!-- org.example.UserPageTest -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

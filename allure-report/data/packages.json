@@ -1,0 +1,94 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "org.example",
+    "children" : [ {
+      "name" : "LoginPageTest",
+      "children" : [ {
+        "name" : "forgotPassword",
+        "uid" : "59eaf754ab56c097",
+        "parentUid" : "df3c2f7b532d2b9a085a360493957eb0",
+        "status" : "passed",
+        "time" : {
+          "duration" : 1327
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "emptyUserCredentialsTest",
+        "uid" : "dcdb65a7d414e154",
+        "parentUid" : "df3c2f7b532d2b9a085a360493957eb0",
+        "status" : "passed",
+        "time" : {
+          "duration" : 1983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validUserLoginTestCase",
+        "uid" : "215b911dc1a90238",
+        "parentUid" : "df3c2f7b532d2b9a085a360493957eb0",
+        "status" : "passed",
+        "time" : {
+          "duration" : 4521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "invalidUserCredentialsTest",
+        "uid" : "f97bd14735df39a3",
+        "parentUid" : "df3c2f7b532d2b9a085a360493957eb0",
+        "status" : "passed",
+        "time" : {
+          "duration" : 2379
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df3c2f7b532d2b9a085a360493957eb0"
+    }, {
+      "name" : "UserPageTest",
+      "children" : [ {
+        "name" : "deleteUsersTest",
+        "uid" : "5959539199ddf4c3",
+        "parentUid" : "087fb87625c3b2afbccb143a35fedba6",
+        "status" : "failed",
+        "time" : {
+          "duration" : 5939
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "editUserTest",
+        "uid" : "2dc754ead1baf1e9",
+        "parentUid" : "087fb87625c3b2afbccb143a35fedba6",
+        "status" : "passed",
+        "time" : {
+          "duration" : 8049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addUsersTest",
+        "uid" : "781de9ae0465901e",
+        "parentUid" : "087fb87625c3b2afbccb143a35fedba6",
+        "status" : "failed",
+        "time" : {
+          "duration" : 20203
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "087fb87625c3b2afbccb143a35fedba6"
+    } ],
+    "uid" : "org.example"
+  } ],
+  "name" : "packages"
+}

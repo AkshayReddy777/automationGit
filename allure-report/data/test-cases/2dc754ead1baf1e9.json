@@ -1,0 +1,79 @@
+{
+  "uid" : "2dc754ead1baf1e9",
+  "name" : "editUserTest",
+  "historyId" : "TestSuite:org.example.UserPageTest#editUserTest",
+  "time" : {
+    "duration" : 8049
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.UserPageTest"
+  }, {
+    "name" : "package",
+    "value" : "org.example.UserPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "6129a7c49fb73a27",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/6129a7c49fb73a27",
+        "status" : "passed",
+        "time" : {
+          "duration" : 16421
+        }
+      }, {
+        "uid" : "65b519d92798fca4",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/65b519d92798fca4",
+        "status" : "passed",
+        "time" : {
+          "duration" : 14682
+        }
+      }, {
+        "uid" : "e8891a77b4213299",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/e8891a77b4213299",
+        "status" : "passed",
+        "time" : {
+          "duration" : 15481
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2dc754ead1baf1e9.json",
+  "parameterValues" : [ ]
+}

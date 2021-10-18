@@ -1,0 +1,95 @@
+{
+  "uid" : "59eaf754ab56c097",
+  "name" : "forgotPassword",
+  "historyId" : "TestSuite:org.example.LoginPageTest#forgotPassword",
+  "time" : {
+    "duration" : 1327
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.LoginPageTest"
+  }, {
+    "name" : "package",
+    "value" : "org.example.LoginPageTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "28ef3dc92acdb2dd",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/13/allure/#testresult/28ef3dc92acdb2dd",
+        "status" : "passed",
+        "time" : {
+          "duration" : 1284
+        }
+      }, {
+        "uid" : "a32e53491c4a1d3d",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/12/allure/#testresult/a32e53491c4a1d3d",
+        "status" : "passed",
+        "time" : {
+          "duration" : 757
+        }
+      }, {
+        "uid" : "6cd13452dc6e80ea",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/11/allure/#testresult/6cd13452dc6e80ea",
+        "status" : "passed",
+        "time" : {
+          "duration" : 833
+        }
+      }, {
+        "uid" : "b679a6bf14d52d84",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/10/allure/#testresult/b679a6bf14d52d84",
+        "status" : "failed",
+        "statusDetails" : "expected [https://zodha2.wavo.co/password/reset] but found [https://zodha2.wavo.co/login]",
+        "time" : {
+          "duration" : 370
+        }
+      }, {
+        "uid" : "bc6b0edb32f93803",
+        "reportUrl" : "http://ec2-18-188-30-178.us-east-2.compute.amazonaws.com:8080/job/Wavo-Web-Automation/9/allure/#testresult/bc6b0edb32f93803",
+        "status" : "failed",
+        "statusDetails" : "element click intercepted: Element <a href=\"https://zodha2.wavo.co/password/reset\" class=\"float-right\">...</a> is not clickable at point (626, 125). Other element would receive the click: <div class=\"panel-body\">...</div>\n  (Session info: chrome=94.0.4606.71)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ip-172-31-47-123.us-east-2.compute.internal', ip: '172.31.47.123', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.248-189.473.amzn2.x86_64', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\\Windows\\proxy\\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:55257}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 04d95a8a3fb0b0cf6ac4499e967...}\nSession ID: 04d95a8a3fb0b0cf6ac4499e967a1bf4b8655d64",
+        "time" : {
+          "duration" : 1260
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "59eaf754ab56c097.json",
+  "parameterValues" : [ ]
+}
